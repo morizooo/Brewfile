@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask astah-community
 cask boostnote
 cask clipmenu
 cask clipy
@@ -16,6 +17,9 @@ cask iterm2
 cask java
 cask karabiner
 cask kindle
+cask mysqlworkbench
+cask scroll-reverser
+cask sequel-pro
 cask skype
 cask slack
 cask sourcetree
@@ -23,19 +27,27 @@ cask sublime-text
 cask vagrant
 cask virtualbox
 cask vlc
+cask xmind
 
 tap homebrew/core
 brew autoconf
+brew carthage
 brew daemontools
 brew djbdns
 brew fish
+brew freetype
 brew gdbm
 brew git
 brew haskell-stack
+brew imagemagick
 brew jenv
 brew jo
+brew jpeg
 brew jq
 brew libevent
+brew libpng
+brew libtiff
+brew libtool
 brew libyaml
 brew mysql
 brew oniguruma
@@ -59,6 +71,7 @@ brew ucspi-tcp
 brew utf8proc
 brew vim
 brew wget
+brew xz
 brew zsh
 brew zsh-completions
 
@@ -68,5 +81,5 @@ brew brew-file
 # App Store applications
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 896624060 Kobito (2.3.8)
-appstore 715768417 Microsoft Remote Desktop (8.0.27181)
+appstore 715768417 Microsoft Remote Desktop (8.0.27228)
 appstore 497799835 Xcode (8.0)
