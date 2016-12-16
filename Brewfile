@@ -26,6 +26,7 @@ cask sourcetree
 cask sublime-text
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vlc
 cask xmind
 
@@ -50,6 +51,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew mysql
+brew node
 brew oniguruma
 brew openssl
 brew pcre
@@ -82,4 +84,3 @@ brew brew-file
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 896624060 Kobito (2.3.8)
 appstore 715768417 Microsoft Remote Desktop (8.0.27228)
-appstore 497799835 Xcode (8.0)
