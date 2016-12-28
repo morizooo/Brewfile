@@ -31,6 +31,10 @@ cask vlc
 cask xmind
 
 tap homebrew/core
+brew android-ndk
+brew android-sdk
+brew ant
+brew app-engine-go-64
 brew autoconf
 brew carthage
 brew daemontools
@@ -39,6 +43,7 @@ brew fish
 brew freetype
 brew gdbm
 brew git
+brew go
 brew haskell-stack
 brew imagemagick
 brew jenv
@@ -81,6 +86,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 668208984 GIPHY CAPTURE (2.4)
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 896624060 Kobito (2.3.8)
 appstore 715768417 Microsoft Remote Desktop (8.0.27228)
