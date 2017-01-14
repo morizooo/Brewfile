@@ -7,7 +7,6 @@ brew mas
 tap caskroom/cask
 cask astah-community
 cask boostnote
-cask clipmenu
 cask clipy
 cask dropbox
 cask firefox
@@ -49,6 +48,7 @@ brew imagemagick
 brew jenv
 brew jo
 brew jpeg
+brew jpegoptim
 brew jq
 brew libevent
 brew libpng
@@ -61,6 +61,7 @@ brew oniguruma
 brew openssl
 brew pcre
 brew pcre2
+brew peco
 brew perl
 brew pkg-config
 brew python
