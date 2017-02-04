@@ -5,8 +5,11 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask appcleaner
 cask astah-community
+cask atom
 cask boostnote
+cask clipmenu
 cask clipy
 cask dropbox
 cask firefox
@@ -67,8 +70,8 @@ brew pkg-config
 brew python
 brew rbenv
 brew readline
-brew ruby
 brew ruby-build
+brew ruby
 brew sbt
 brew scala
 brew sqlite
@@ -78,16 +81,17 @@ brew typesafe-activator
 brew ucspi-tcp
 brew utf8proc
 brew vim
+brew vimpager
 brew wget
 brew xz
-brew zsh
 brew zsh-completions
+brew zsh
 
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 668208984 GIPHY CAPTURE (2.4)
-appstore 1127487414 Install macOS Sierra (12.0.49)
-appstore 896624060 Kobito (2.3.8)
-appstore 715768417 Microsoft Remote Desktop (8.0.27228)
+appstore 668208984 GIPHY CAPTURE
+appstore 896624060 Kobito
+appstore 715768417 Microsoft Remote Desktop
+appstore 497799835 Xcode
