@@ -8,7 +8,6 @@ tap caskroom/cask
 cask appcleaner
 cask astah-community
 cask atom
-cask boostnote
 cask clipy
 cask dropbox
 cask firefox
@@ -89,9 +88,6 @@ brew zsh-completions
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew android-ndk
 
 # App Store applications
 appstore 668208984 GIPHY CAPTURE (3.2)
