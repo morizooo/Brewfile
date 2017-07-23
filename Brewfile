@@ -86,8 +86,6 @@ brew wget
 brew x264
 brew xvid
 brew xz
-brew zsh
-brew zsh-completions
 
 tap rcmdnk/file
 brew brew-file
