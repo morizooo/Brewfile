@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask android-sdk
 cask appcleaner
 cask astah-community
 cask atom
@@ -41,6 +42,7 @@ brew ffmpeg
 brew fish
 brew freetype
 brew gdbm
+brew ghq
 brew git
 brew go
 brew haskell-stack
@@ -97,7 +99,8 @@ appstore 408981434 iMovie (10.1.6)
 appstore 409183694 Keynote (7.2)
 appstore 896624060 Kobito (2.3.8)
 appstore 441258766 Magnet (2.1.0)
-appstore 715768417 Microsoft Remote Desktop (8.0.27310)
+appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
 appstore 425955336 Skitch (2.8)
+appstore 497799835 Xcode (8.3.3)
