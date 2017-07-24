@@ -7,12 +7,9 @@ brew mas
 tap caskroom/cask
 cask android-sdk
 cask appcleaner
-cask astah-community
-cask atom
 cask clipy
 cask dropbox
 cask duet
-cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
@@ -32,7 +29,6 @@ cask vlc
 cask xmind
 
 tap homebrew/core
-brew ant
 brew app-engine-go-64
 brew autoconf
 brew carthage
@@ -45,7 +41,6 @@ brew gdbm
 brew ghq
 brew git
 brew go
-brew haskell-stack
 brew imagemagick
 brew jenv
 brew jo
@@ -78,7 +73,6 @@ brew scala
 brew sqlite
 brew tmux
 brew tree
-brew typesafe-activator
 brew ucspi-tcp
 brew utf8proc
 brew vim
