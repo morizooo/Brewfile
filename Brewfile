@@ -1,53 +1,18 @@
 
 # tap repositories and their packages
 
-tap argon/mas
+tap homebrew/core
 brew mas
 
 tap caskroom/cask
-cask appcleaner
-cask clipy
-cask duet
-cask google-chrome
-cask google-japanese-ime
-cask iterm2
-cask kindle
-cask scroll-reverser
-cask sequel-pro
-cask slack
-cask sourcetree
-cask sublime-text
-cask vagrant
-cask virtualbox
-cask vlc
-cask xmind
-
-tap caskroom/versions
-
-tap homebrew/core
-brew sqlite
-brew fish
-brew jenv
-brew mysql
-brew go
-brew app-engine-go-64
-brew git
-brew carthage
-brew wget
-brew peco
-brew jq
-brew vim
-brew nginx
-brew tmux
-brew ghq
-brew ffmpeg
-brew tree
-brew rbenv
 
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 668208984 GIPHY CAPTURE (3.7)
-appstore 441258766 Magnet (2.1.0)
-appstore 425955336 Skitch (2.8)
+appstore 682658836 GarageBand (10.2.0)
+appstore 408981434 iMovie (10.1.8)
+appstore 409183694 Keynote (8.0)
+appstore 409203825 Numbers (5.0)
+appstore 409201541 Pages (7.0)
+appstore 497799835 Xcode (9.3)
